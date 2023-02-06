@@ -1,0 +1,38 @@
+*Vertices 100
+*Edges
+1 99
+6 29
+6 78
+10 78
+15 67
+18 93
+19 29
+19 32
+19 36
+19 57
+19 67
+19 68
+19 99
+23 90
+29 46
+29 57
+29 78
+29 84
+29 96
+29 99
+42 99
+46 57
+46 99
+57 99
+68 99
+76 99
+77 99
+78 99
+84 99
+90 99
+
+%Multi-interest binary-value
+%Number of agents: 100
+%Number of interests: 10
+%Threshold for number of interests in common: 7
+%Max edges per node: Integer.MAX_VALUE
