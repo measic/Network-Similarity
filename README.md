@@ -1,2 +1,4 @@
 # Network-Similarity
 Graphs are everywhere. Determining similarity between two graphs may be as simple as inspecting the two graphs and observing their structures when they are small enough. However, when the number of vertices in a graph becomes extremely large, relying solely on visual inspection is neither practical nor reliable. This study focuses on the methods used to determine similarity between simulated and real-life social graphs. A Baseline model, which was formed by trial and error, and a Random model were both compared against a real-life social network on various graph metrics. The results found that both models were extremely similar to the real-life social network across all metrics tested. It was established that various metrics, which do not rely on visual inspection, could be used to test graphs for similarity.
+
+[Paper](Network-Similarity.pdf)
